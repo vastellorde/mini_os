@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ports.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/arman/projects/mini_os",
+            "binaryPath": "/Users/arman/projects/mini_os/format",
+            "binaryArgs": []
+        }
+    ]
+}
